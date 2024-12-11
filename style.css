@@ -1,0 +1,21 @@
+.container{
+    border: 1px solid black;
+    /* height: 100px; */
+}
+
+.col{
+    border: 1px solid black;
+}
+
+
+
+
+.col-3,
+.col-9{
+    border: 1px solid black;
+}
+
+.col-6,
+.col-2{
+    border: 1px solid black;
+}
